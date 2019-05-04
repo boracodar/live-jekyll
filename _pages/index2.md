@@ -1,6 +1,6 @@
 ---
 title: 'Página 2'
-permalink: '/pagina2'
+permalink: '/pagina2/'
 layout: 'bulmaton'
 ---
 
