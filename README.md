@@ -2,9 +2,10 @@
 
 Project created during LIVE #005: [www.lucascaton.com.br/lives](https://www.lucascaton.com.br/lives/)
 
-### Website URL
+### Website URLs
 
-[lucascaton.github.io/live-jekyll](https://lucascaton.github.io/live-jekyll/)
+* [lucascaton.github.io/live-jekyll](https://lucascaton.github.io/live-jekyll/)
+* [lucascaton.github.io/live-jekyll/pagina2](https://lucascaton.github.io/live-jekyll/pagina2)
 
 ### How to deploy
 
