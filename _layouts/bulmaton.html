@@ -1,0 +1,26 @@
+---
+---
+
+<!DOCTYPE html>
+<html lang="pt" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>{{ page.title }}</title>
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.7.4/css/bulma.min.css">
+  </head>
+
+  <body>
+    <section class="section">
+      <div class="container">
+        {% if page.show_title %}
+          <h3 class='is-size-3'>BulmaTom \o/</h3>
+        {% endif %}
+
+        {{ content }}
+
+        {% include footer.md %}
+      </div>
+    </section>
+  </body>
+</html>
